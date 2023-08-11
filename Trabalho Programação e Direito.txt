@@ -1,0 +1,12 @@
+
+-Inteligência Artificial:É um campo da ciência da computação que se concentra no desenvolvimento de sistemas e máquinas, na qual possui uma tecnologia programada para simular a inteligência humana 
+
+-Banco de Dados: É uma coleção organizada de informações ou dados estruturadas, geralmemte armazenadas eletronicamente em um sistema de computador. 
+
+-Memória (Computação): É um armazenamento em seu computador que fornece aos aplicativos um lugar para armazenar e acessar dados.
+
+-Neutralidade da rede: É um princípio da internet no qual todos os dados transmitidos pela rede devem ser tratados de forma igualitária, sem prescrição ou preferência por tipo de conteúdo, aplicativo etc. Os provedores de serviços de internet devem tratar todos os dados da mesma maneira, sem bloquear, desacelerar ou priorizar determinados tipos de tráfego, garantindo assim um ambiente aberto e equitativo.
+
+-Nuvem: É uma rede de servidores remotos que são conectados e operam como um único ecossistema. Esses servidores são responsáveis por armazenar e gerenciar dados, executar aplicativos e fornecer conteúdos ou serviços, como transmissão de vídeos, webmail, software de produtividade ou mídias sociais. Em vez de acessar arquivos e dados do local ou de um PC, você pode acessá-los online, de qualquer dispositivo com acesso à Internet.
+
+
