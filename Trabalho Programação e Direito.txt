@@ -1,4 +1,4 @@
-
+Tarefa 1:
 -Inteligência Artificial:É um campo da ciência da computação que se concentra no desenvolvimento de sistemas e máquinas, na qual possui uma tecnologia programada para simular a inteligência humana 
 
 -Banco de Dados: É uma coleção organizada de informações ou dados estruturadas, geralmemte armazenadas eletronicamente em um sistema de computador. 
@@ -9,6 +9,7 @@
 
 -Nuvem: É uma rede de servidores remotos que são conectados e operam como um único ecossistema. Esses servidores são responsáveis por armazenar e gerenciar dados, executar aplicativos e fornecer conteúdos ou serviços, como transmissão de vídeos, webmail, software de produtividade ou mídias sociais. Em vez de acessar arquivos e dados do local ou de um PC, você pode acessá-los online, de qualquer dispositivo com acesso à Internet.
 
+Tarefa 2:
 “MPF investiga se algoritmo do INSS nega aposentadoria sem análise de mérito” 
 Após a leitura sobre essa notícia, percebe-se que o recurso do algoritmo é prejudicial em algumas situações como por exemplo em situações de tomadas de decisões. No caso do INSS, esse sistema é utilizado com o intuito de diminuir a morosidade no processo de aposentadoria, porém há indícios de irregularidades ao negar requerimentos de benefícios previdenciários supostamente causados por um sistema automatizado, que não estaria observando o mérito de forma adequada. Com isso, é necessário fiscalização para garantir um sistema transparente que funcione de maneira correta. 
 
@@ -19,6 +20,8 @@ Negativa de crédito precisa ser justificada?
 A negativa de crédito precisa ser justificada de acordo com as regulamentações e leis aplicáveis em diferentes jurisdições. Isso é importante para garantir a transparência, a equidade e evitar qualquer tipo de injustiça nas decisões de crédito. As justificativas para a negativa de crédito podem variar dependendo da situação, mas geralmente envolvem fatores objetivos e informações específicas relacionadas ao histórico de crédito e à capacidade financeira do indivíduo, como por exemplo histórico de pagamento insatisfatório, altos níveis de endividamento, renda insuficiente etc. 
 
 Uma Rede Neural Artificial (RNA) é um modelo computacional inspirado pelo funcionamento do sistema nervoso de organismos vivos, especialmente o cérebro humano. As redes neurais artificiais são uma classe de algoritmos de aprendizado de máquina que têm a capacidade de aprender a partir de dados e realizar tarefas complexas, como reconhecimento de padrões, classificação e previsão.
+
+Tarefa 3:
 
 Os data centers desempenham um papel crucial na implementação da LGPD, uma vez que são os locais onde as organizações armazenam e processam grande parte dos dados pessoais que coletam. Os data centers precisam adotar medidas de segurança rigorosas para proteger os dados pessoais armazenados contra acesso não autorizado, vazamentos. A LGPD exige que as empresas tomem medidas para garantir a confidencialidade, integridade e disponibilidade dos dados pessoais, ou que incluam a implementação de medidas de segurança física e digital nos data centers.
  
