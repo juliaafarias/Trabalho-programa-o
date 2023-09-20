@@ -30,3 +30,33 @@ Formato de arquivo é o termo que se usa para identificar a forma que um arquivo
 Os formatos de arquivos de dados desempenham um papel fundamental na disponibilidade, acessibilidade e usabilidade de dados públicos. A escolha do formato pode ter implicações significativas para a transparência, interoperabilidade e capacidade de análise dos dados públicos. Algumas implicações relacionadas aos formatos de arquivos de dados em contextos de dados públicos tendem a ser mais acessíveis, pois não dependem de ferramentas proprietárias específicas para visualização e análise. Ao optar por formatos abertos, as instituições públicas garantem que os cidadãos e pesquisadores possam acessar os dados sem barreiras tecnológicas.
 
 
+Tarefa 4:
+
+Python - É conhecido por sua legibilidade e simplicidade, o que facilita a aprendizagem e a manutenção do código. 
+Java: - É uma linguagem de programação orientada a objetos de alto nível. - É amplamente utilizado no desenvolvimento de aplicativos móveis (Android), aplicativos web e sistemas empresariais. - Java é conhecido por sua portabilidade, o que significa que um programa Java pode ser executado em qualquer dispositivo ou sistema operacional que suporte Java.
+ C++: - É uma linguagem de programação orientada a objetos de alto nível. É amplamente utilizado no desenvolvimento de sistemas operacionais, aplicativos de alto desempenho e jogos e é conhecido por sua velocidade e eficiência, o que se torna uma linguagem popular para desenvolvimento de sistemas e aplicativos de alto desempenho. 
+
+Python: python
+print("Olá mundo!")
+
+Java: java
+public class Olá mundo {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!");
+    }
+}
+
+C++ cpp
+#include <iostream>
+
+int main() {
+    std::cout << "Olá, mundo!" << std::endl;
+    return 0;
+}
+
+
+[[[[[{Olá Brasil}]]]]]]
+
+
+
+
